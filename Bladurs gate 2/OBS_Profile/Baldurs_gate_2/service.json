@@ -1,8 +1,0 @@
-{
-    "settings": {
-        "key": "live_37468304_FbIE0cnMKJIfmaItql0admZCPTxPlv",
-        "server": "rtmp://live-lis.twitch.tv/app",
-        "service": "Twitch"
-    },
-    "type": "rtmp_common"
-}
